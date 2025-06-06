@@ -1,0 +1,83 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  font-family: 'Cairo', sans-serif;
+}
+
+html, body {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.nav-spacing {
+    display: flex;
+    gap: 10px 40px;
+}
+@media (min-width: 576px) {
+    .navbar-expand-sm .navbar-nav .nav-link {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+}
+
+.nav-link.active,
+.nav-link:hover {
+    display: inline-block;
+    border-bottom: 4px solid #007bff;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: none;
+}
+.navbar-light .navbar-toggler {
+    border-color: rgba(0, 0, 0, 0);
+}
+.container-xxl ul li {
+    font-size: 25px;
+}
+
+.page-header {
+    background: linear-gradient(rgb(56 0 0 / 0%), rgba(24, 29, 56, 0.7)), url(../files/images/together1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+@media (min-width: 768px) {
+    .container, .container-md, .container-sm {
+        max-width: 100%;
+    }
+}
+.intro {
+    margin-top: 20%;
+    background-color: aqua;
+    width: 50%;
+}
