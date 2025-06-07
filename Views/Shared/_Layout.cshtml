@@ -1,91 +1,230 @@
 ﻿<!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html>
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - b_tech</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/b_tech.styles.css" asp-append-version="true" />
-    <link href="https://fonts.googleapis.com/css2?family=Cairo&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Alanqaa - IT Solutions">
+    <title>Phoenix Wings</title>
+    <link rel="shortcut icon" href="~/img/favicon.png" type="image/x-icon">
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/css/themify-icons.css" rel="stylesheet" />
+    <link href="~/css/flaticon-set.css" rel="stylesheet" />
+    <link href="~/css/magnific-popup.css" rel="stylesheet" />
+    <link href="~/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="~/css/owl.theme.default.min.css" rel="stylesheet" />
+    <link href="~/css/animate.css" rel="stylesheet" />
+    <link href="~/css/bootsnav.css" rel="stylesheet" />
+    <link href="~/style.css" rel="stylesheet">
+    <link href="~/css/responsive.css" rel="stylesheet" />
+
+    <style>
+        @@media (min-width: 1024px) {
+            nav.navbar.bootsnav.bg-theme {
+                background: #fff;
+            }
+
+                nav.navbar.bootsnav.bg-theme ul.nav > li > a {
+                    color: #000;
+                }
+
+            .bootsnav.bg-theme .attr-nav > ul > li.contact i {
+                color: #000;
+            }
+
+            nav.navbar.bootsnav.bg-theme ul.nav > li > a:hover {
+                color: #820f4b;
+            }
+        }
+
+        .navbar.bg-theme .attr-nav .contact p {
+            color: #000;
+        }
+
+        .navbar.bg-theme .attr-nav .contact strong {
+            color: #000;
+        }
+
+        .navbar.bg-theme .attr-nav .contact i {
+            border-right: 1px solid rgb(0 0 0 / 40%);
+        }
+
+        nav .attr-nav > ul > li.contact {
+            padding: 31px 0;
+            margin-left: -15px;
+        }
+    </style>
+
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
-                    <div>
-                        <img src="~/files/images/logo.png" alt="user" height="50px" width="70px">
-                    </div>
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1 nav-spacing">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["action"]?.ToString() == "Index" ? "active" : "")"
-                               asp-area="" asp-controller="Home" asp-action="Index">
-                                الرئيسية
-                            </a>
+     <!-- Preloader Start -->
+    <div class="se-pre-con"></div>
+    <!-- Preloader Ends -->
+    <!-- Start Header Top
+    ============================================= -->
+    <div class="top-bar-area inc-pad bg-theme text-light">
+        <div class="container">
+            <div class="row align-center">
+                <div class="col-lg-6 info">
+                    <ul>
+                        <li>
+                            <i class="fas fa-map-marker-alt"></i> Saudi, Riyadh 
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["action"]?.ToString() == "Privacy" ? "active" : "")"
-                               asp-area="" asp-controller="Home" asp-action="Privacy">
-                                من نحن
-                            </a>
+                        <li>
+                            <i class="fas fa-envelope-open"></i> info@phoenixwings.com
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["action"]?.ToString() == "" ? "active" : "")"
-                               asp-area="" asp-controller="Home" asp-action="Privacy">
-                                برامجنا
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["action"]?.ToString() == "" ? "active" : "")"
-                               asp-area="" asp-controller="Home" asp-action="Privacy">
-                                خدماتنا
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["action"]?.ToString() == "" ? "active" : "")"
-                               asp-area="" asp-controller="Home" asp-action="Privacy">
-                                الوظائف
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["action"]?.ToString() == "" ? "active" : "")"
-                               asp-area="" asp-controller="Home" asp-action="Privacy">
-                                مركز المساعدة
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["action"]?.ToString() == "" ? "active" : "")"
-                               asp-area="" asp-controller="Home" asp-action="Privacy">
-                                الخصوصية
-                            </a>
-                        </li>
-
                     </ul>
                 </div>
+                <div class="col-lg-6 text-right item-flex">
+                    <div class="info">
+                        <ul>
+                            <li>
+                                <i class="fas fa-clock"></i> Office Hours: 8:00 AM – 6:00 PM
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="social">
+                        <ul>
+                            <li>
+                                <a href="#">
+                                    <i class="fab fa-facebook-f"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="fab fa-linkedin-in"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Header Top -->
+    <!-- Header
+    ============================================= -->
+    <header id="home">
+        <!-- Start Navigation -->
+        <nav class="navbar navbar-default bg-theme navbar-sticky bootsnav">
+            <div class="container">
+                <!-- Start Atribute Navigation -->
+                <div class="attr-nav inc-border">
+                    <ul>
+                        <li class="contact">
+                            <i class="flaticon-telephone"></i>
+                            <p>Call us today! <strong>+966 000000000</strong></p>
+                        </li>
+                    </ul>
+                </div>
+                <!-- End Atribute Navigation -->
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="index.html">
+                        <img src="~/Upload/logo.png" style="height: 35px;" class="logo desktop" alt="Logo">
+                        <img src="~/Upload/logo.png" style="height: 35px;" class="logo responsive" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul class="nav navbar-nav navbar-center" data-in="fadeInDown" data-out="fadeOutUp">
+                        <li>
+                            <a href="@Url.Action("Index","Home")">Home</a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("About","Home")">About <span style="color:#da1469;font-weight:900">Phoenix</span></a>
+                        </li>
+                       
+
+                        <li class="dropdown">
+                            <a href="@Url.Action("Services","Home")" class="dropdown-toggle" data-toggle="dropdown">Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Logistics System</a></li>
+                                <li><a href="#">Mobile App Design</a></li>
+                                <li><a href="#">Websites Development</a></li>
+                                <li><a href="#">Exchange EMAIL</a></li>
+                                <li><a href="#">Multimedia Design</a></li>
+                                <li><a href="#">IT Consultant</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="#">Products</a>
+                        </li>
+
+                        <li><a href="@Url.Action("Careers","Home")">Careers</a></li>
+
+                        <li>
+                            <a href="@Url.Action("Contact","Home")">Contact Us</a>
+                        </li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
             </div>
         </nav>
+        <!-- End Navigation -->
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+    <!-- End Header -->
+    @RenderBody()
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2025 - b_tech - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    
+    <footer class="bg-dark text-light">
+       
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p>Copyright &copy;  2020. All Right Reserved By Alanqaas</p>
+                    </div>
+                    <div class="col-md-6 text-right link">
+                        <ul>
+                            <li>
+                                <a href="#">Terms</a>
+                            </li>
+                            <li>
+                                <a href="#">Privacy</a>
+                            </li>
+                            <li>
+                                <a href="@Url.Action("Faqs","Home")">Support</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
+        <!-- End Footer Bottom -->
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+    <!-- End Footer -->
+    <!-- jQuery Frameworks
+    ============================================= -->
+    <script src="~/js/jquery-1.12.4.min.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/equal-height.min.js"></script>
+    <script src="~/js/jquery.appear.js"></script>
+    <script src="~/js/jquery.easing.min.js"></script>
+    <script src="~/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/js/modernizr.custom.13711.js"></script>
+    <script src="~/js/owl.carousel.min.js"></script>
+    <script src="~/js/wow.min.js"></script>
+    <script src="~/js/progress-bar.min.js"></script>
+    <script src="~/js/isotope.pkgd.min.js"></script>
+    <script src="~/js/imagesloaded.pkgd.min.js"></script>
+    <script src="~/js/count-to.js"></script>
+    <script src="~/js/YTPlayer.min.js"></script>
+    <script src="~/js/jquery.nice-select.min.js"></script>
+    <script src="~/js/bootsnav.js"></script>
+    <script src="~/js/main.js"></script>
+    @RenderSection("scripts", required: false)
 </body>
 </html>
