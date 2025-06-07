@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Alanqaa - IT Solutions">
     <title>Phoenix Wings</title>
-    <link rel="shortcut icon" href="~/img/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="~/files/img/favicon.png" type="image/x-icon">
     <link href="~/css/bootstrap.min.css" rel="stylesheet" />
     <link href="~/css/font-awesome.min.css" rel="stylesheet" />
     <link href="~/css/themify-icons.css" rel="stylesheet" />
@@ -17,7 +17,7 @@
     <link href="~/css/owl.theme.default.min.css" rel="stylesheet" />
     <link href="~/css/animate.css" rel="stylesheet" />
     <link href="~/css/bootsnav.css" rel="stylesheet" />
-    <link href="~/style.css" rel="stylesheet">
+    <link href="~/css/style.css" rel="stylesheet">
     <link href="~/css/responsive.css" rel="stylesheet" />
 
     <style>
@@ -85,8 +85,8 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="social">
-                        <ul>
+                    <div class="social navbar-collapse">
+                        <ul data-in="fadeInDown" data-out="fadeOutUp">
                             <li>
                                 <a href="#">
                                     <i class="fab fa-facebook-f"></i>
@@ -130,9 +130,9 @@
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                         <i class="fa fa-bars"></i>
                     </button>
-                    <a class="navbar-brand" href="index.html">
-                        <img src="~/Upload/logo.png" style="height: 35px;" class="logo desktop" alt="Logo">
-                        <img src="~/Upload/logo.png" style="height: 35px;" class="logo responsive" alt="Logo">
+                    <a class="navbar-brand" asp-action="Index" asp-controller="Home">
+                        <img src="~/files/img/logo.png" style="height: 35px;" class="logo desktop" alt="Logo">
+                        <img src="~/files/img/logo.png" style="height: 35px;" class="logo responsive" alt="Logo">
                     </a>
                 </div>
                 <!-- End Header Navigation -->
@@ -167,6 +167,21 @@
 
                         <li>
                             <a href="@Url.Action("Contact","Home")">Contact Us</a>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown"><i class="fas fa-globe"></i></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="/Language/Change?lang=ar&returnUrl=@Context.Request.Path">
+                                        <img src="https://flagcdn.com/w40/sa.png" alt="العربية" width="24"> العربية
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/Language/Change?lang=en&returnUrl=@Context.Request.Path">
+                                        <img src="https://flagcdn.com/w40/us.png" alt="English" width="24"> English
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
                     </ul>
                 </div><!-- /.navbar-collapse -->

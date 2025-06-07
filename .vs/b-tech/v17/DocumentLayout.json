@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a\\Desktop\\b-tech\\",
+  "WorkspaceRootPath": "E:\\Bluetooth\\b-tech\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|c:\\users\\a\\desktop\\b-tech\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|e:\\bluetooth\\b-tech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|c:\\users\\a\\desktop\\b-tech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|e:\\bluetooth\\b-tech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|c:\\users\\a\\desktop\\b-tech\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|e:\\bluetooth\\b-tech\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|c:\\users\\a\\desktop\\b-tech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|e:\\bluetooth\\b-tech\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|e:\\bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|e:\\bluetooth\\b-tech\\wwwroot\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:wwwroot\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|e:\\bluetooth\\b-tech\\views\\home\\careers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:views\\home\\careers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|e:\\bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|e:\\bluetooth\\b-tech\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|e:\\bluetooth\\b-tech\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FD70DB-7659-4D08-858C-82D24F41A919}|b-tech.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,52 +70,121 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\a\\Desktop\\b-tech\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\a\\Desktop\\b-tech\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AgIAALQAAACQmZmZmZkwwMQAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAAEwaAACAMzMzMzMbwFkaAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-07T21:24:45.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Careers.cshtml",
+              "DocumentMoniker": "E:\\Bluetooth\\b-tech\\Views\\Home\\Careers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Careers.cshtml",
+              "ToolTip": "E:\\Bluetooth\\b-tech\\Views\\Home\\Careers.cshtml",
+              "RelativeToolTip": "Views\\Home\\Careers.cshtml",
+              "ViewState": "AgIAALUAAADAyczMzEwqwL4AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-06T19:24:28.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T17:12:12.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "animate.css",
+              "DocumentMoniker": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\animate.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\animate.css",
+              "ToolTip": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\animate.css",
+              "RelativeToolTip": "wwwroot\\css\\animate.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-07T17:12:08.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "additional-methods.min.js",
+              "DocumentMoniker": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ToolTip": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxMgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-07T17:12:02.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAADwFAAAAAAAAAAAuwEUFAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-07T17:11:39.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Bluetooth\\b-tech\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Bluetooth\\b-tech\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGkBAAAAyszMzMwAwJABAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T17:03:31.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\Bluetooth\\b-tech\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\Bluetooth\\b-tech\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAALgAAAAAAAAAAAAIwMEAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T19:24:28.714Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\a\\Desktop\\b-tech\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\Bluetooth\\b-tech\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\a\\Desktop\\b-tech\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Bluetooth\\b-tech\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA0AAACAMDMzM7MewBgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAmwLYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-06T19:16:44.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T19:16:44.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Desktop\\b-tech\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "E:\\Bluetooth\\b-tech\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\a\\Desktop\\b-tech\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Bluetooth\\b-tech\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T19:15:05.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T19:15:05.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a\\Desktop\\b-tech\\Program.cs",
+              "DocumentMoniker": "E:\\Bluetooth\\b-tech\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\a\\Desktop\\b-tech\\Program.cs",
+              "ToolTip": "E:\\Bluetooth\\b-tech\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAACANDMzMzMbwBIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T22:46:07.778Z",
               "EditorCaption": ""

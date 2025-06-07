@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("b-tech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+338e7f371cb40c87a2878bfe5fdbf29ff8405b5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e7294689c5538f22713802a9c5c2e782166b63d")]
 [assembly: System.Reflection.AssemblyProductAttribute("b-tech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("b-tech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

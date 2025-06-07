@@ -1,5 +1,0 @@
-C:\Users\a\Desktop\b-tech\wwwroot\css\site.css
-C:\Users\a\Desktop\b-tech\wwwroot\files\images\logo.png
-C:\Users\a\Desktop\b-tech\wwwroot\files\images\together.png
-C:\Users\a\Desktop\b-tech\wwwroot\files\images\together1.png
-C:\Users\a\Desktop\b-tech\wwwroot\files\images\user_image.png
