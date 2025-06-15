@@ -1,4 +1,9 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+
+<!DOCTYPE html>
+<!-- <html dir="@((System.Threading.Thread.CurrentThread.CurrentUICulture.TwoLetterISOLanguageName == "ar") ? "rtl" : "ltr")">
+--> 
 <html>
 <head>
     <meta charset="utf-8" />
@@ -70,7 +75,7 @@
                 <div class="col-lg-6 info">
                     <ul>
                         <li>
-                            <i class="fas fa-map-marker-alt"></i> Saudi, Riyadh 
+                            <i class="fas fa-map-marker-alt"></i>@Localizer["address"]
                         </li>
                         <li>
                             <i class="fas fa-envelope-open"></i> info@phoenixwings.com
@@ -170,7 +175,7 @@
                         </li>
                         <li class="dropdown">
                             <a class="dropdown-toggle" data-toggle="dropdown"><i class="fas fa-globe"></i></a>
-                            <ul class="dropdown-menu">
+                            <ul class="dropdown-menu" style="width: 10px;">
                                 <li>
                                     <a href="/Language/Change?lang=ar&returnUrl=@Context.Request.Path">
                                         <img src="https://flagcdn.com/w40/sa.png" alt="العربية" width="24"> العربية

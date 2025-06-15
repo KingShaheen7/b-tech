@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="address" xml:space="preserve">
+    <value>الرياض-المملكة العربية السعودية</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>الرئيسية</value>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>من نحن</value>
+  </data> 
+  <data name="Contact" xml:space="preserve">
+    <value>تواصل معنا</value>
+  </data>
+</root>

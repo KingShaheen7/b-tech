@@ -1,875 +1,871 @@
 {
   "Files": [
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\Flaticon.html",
-      "PackagePath": "staticwebassets\\css\\Flaticon.html"
+      "Id": "/workspaces/b-tech/wwwroot/css/Flaticon.html",
+      "PackagePath": "staticwebassets/css/Flaticon.html"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\animate.css",
-      "PackagePath": "staticwebassets\\css\\animate.css"
+      "Id": "/workspaces/b-tech/wwwroot/css/animate.css",
+      "PackagePath": "staticwebassets/css/animate.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\bootsnav.css",
-      "PackagePath": "staticwebassets\\css\\bootsnav.css"
+      "Id": "/workspaces/b-tech/wwwroot/css/bootsnav.css",
+      "PackagePath": "staticwebassets/css/bootsnav.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+      "Id": "/workspaces/b-tech/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\flaticon-set.css",
-      "PackagePath": "staticwebassets\\css\\flaticon-set.css"
+      "Id": "/workspaces/b-tech/wwwroot/css/flaticon-set.css",
+      "PackagePath": "staticwebassets/css/flaticon-set.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\font-awesome.min.css",
-      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+      "Id": "/workspaces/b-tech/wwwroot/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/css/font-awesome.min.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\magnific-popup.css",
-      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+      "Id": "/workspaces/b-tech/wwwroot/css/magnific-popup.css",
+      "PackagePath": "staticwebassets/css/magnific-popup.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\owl.carousel.min.css",
-      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+      "Id": "/workspaces/b-tech/wwwroot/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/css/owl.carousel.min.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\owl.theme.default.min.css",
-      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+      "Id": "/workspaces/b-tech/wwwroot/css/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/css/owl.theme.default.min.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\owl.video.play.html",
-      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+      "Id": "/workspaces/b-tech/wwwroot/css/owl.video.play.html",
+      "PackagePath": "staticwebassets/css/owl.video.play.html"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\responsive.css",
-      "PackagePath": "staticwebassets\\css\\responsive.css"
+      "Id": "/workspaces/b-tech/wwwroot/css/responsive.css",
+      "PackagePath": "staticwebassets/css/responsive.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
+      "Id": "/workspaces/b-tech/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\css\\themify-icons.css",
-      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+      "Id": "/workspaces/b-tech/wwwroot/css/themify-icons.css",
+      "PackagePath": "staticwebassets/css/themify-icons.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "/workspaces/b-tech/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\about\\1.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\about\\1.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/about/1.jpg",
+      "PackagePath": "staticwebassets/files/img/about/1.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\about\\2.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\about\\2.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/about/2.jpg",
+      "PackagePath": "staticwebassets/files/img/about/2.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\about\\3.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\about\\3.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/about/3.jpg",
+      "PackagePath": "staticwebassets/files/img/about/3.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\about\\4.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\about\\4.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/about/4.jpg",
+      "PackagePath": "staticwebassets/files/img/about/4.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\banner\\1.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\banner\\1.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/banner/1.jpg",
+      "PackagePath": "staticwebassets/files/img/banner/1.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\banner\\11.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\banner\\11.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/banner/11.jpg",
+      "PackagePath": "staticwebassets/files/img/banner/11.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\banner\\12.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\banner\\12.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/banner/12.jpg",
+      "PackagePath": "staticwebassets/files/img/banner/12.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\banner\\13.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\banner\\13.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/banner/13.jpg",
+      "PackagePath": "staticwebassets/files/img/banner/13.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\banner\\15.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\banner\\15.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/banner/15.jpg",
+      "PackagePath": "staticwebassets/files/img/banner/15.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\banner\\2.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\banner\\2.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/banner/2.jpg",
+      "PackagePath": "staticwebassets/files/img/banner/2.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\banner\\3.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\banner\\3.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/banner/3.jpg",
+      "PackagePath": "staticwebassets/files/img/banner/3.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\banner\\6.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\banner\\6.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/banner/6.jpg",
+      "PackagePath": "staticwebassets/files/img/banner/6.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\banner\\7.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\banner\\7.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/banner/7.jpg",
+      "PackagePath": "staticwebassets/files/img/banner/7.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\banner\\9.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\banner\\9.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/banner/9.jpg",
+      "PackagePath": "staticwebassets/files/img/banner/9.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\blog\\1.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\blog\\1.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/blog/1.jpg",
+      "PackagePath": "staticwebassets/files/img/blog/1.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\blog\\11.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\blog\\11.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/blog/11.jpg",
+      "PackagePath": "staticwebassets/files/img/blog/11.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\blog\\2.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\blog\\2.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/blog/2.jpg",
+      "PackagePath": "staticwebassets/files/img/blog/2.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\blog\\22.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\blog\\22.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/blog/22.jpg",
+      "PackagePath": "staticwebassets/files/img/blog/22.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\blog\\3.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\blog\\3.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/blog/3.jpg",
+      "PackagePath": "staticwebassets/files/img/blog/3.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\blog\\33.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\blog\\33.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/blog/33.jpg",
+      "PackagePath": "staticwebassets/files/img/blog/33.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\blog\\4.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\blog\\4.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/blog/4.jpg",
+      "PackagePath": "staticwebassets/files/img/blog/4.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\blog\\5.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\blog\\5.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/blog/5.jpg",
+      "PackagePath": "staticwebassets/files/img/blog/5.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\blog\\6.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\blog\\6.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/blog/6.jpg",
+      "PackagePath": "staticwebassets/files/img/blog/6.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\clients\\1.png",
-      "PackagePath": "staticwebassets\\files\\img\\clients\\1.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/clients/1.png",
+      "PackagePath": "staticwebassets/files/img/clients/1.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\clients\\2.png",
-      "PackagePath": "staticwebassets\\files\\img\\clients\\2.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/clients/2.png",
+      "PackagePath": "staticwebassets/files/img/clients/2.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\clients\\3.png",
-      "PackagePath": "staticwebassets\\files\\img\\clients\\3.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/clients/3.png",
+      "PackagePath": "staticwebassets/files/img/clients/3.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\clients\\4.png",
-      "PackagePath": "staticwebassets\\files\\img\\clients\\4.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/clients/4.png",
+      "PackagePath": "staticwebassets/files/img/clients/4.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\clients\\5.png",
-      "PackagePath": "staticwebassets\\files\\img\\clients\\5.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/clients/5.png",
+      "PackagePath": "staticwebassets/files/img/clients/5.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\clients\\6.png",
-      "PackagePath": "staticwebassets\\files\\img\\clients\\6.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/clients/6.png",
+      "PackagePath": "staticwebassets/files/img/clients/6.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\demo\\index-1.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\demo\\index-1.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/demo/index-1.jpg",
+      "PackagePath": "staticwebassets/files/img/demo/index-1.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\demo\\index-2.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\demo\\index-2.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/demo/index-2.jpg",
+      "PackagePath": "staticwebassets/files/img/demo/index-2.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\demo\\index-3.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\demo\\index-3.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/demo/index-3.jpg",
+      "PackagePath": "staticwebassets/files/img/demo/index-3.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\demo\\index-4.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\demo\\index-4.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/demo/index-4.jpg",
+      "PackagePath": "staticwebassets/files/img/demo/index-4.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\demo\\index-5.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\demo\\index-5.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/demo/index-5.jpg",
+      "PackagePath": "staticwebassets/files/img/demo/index-5.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\demo\\index-6.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\demo\\index-6.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/demo/index-6.jpg",
+      "PackagePath": "staticwebassets/files/img/demo/index-6.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\favicon.png",
-      "PackagePath": "staticwebassets\\files\\img\\favicon.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/favicon.png",
+      "PackagePath": "staticwebassets/files/img/favicon.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\features\\1.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\features\\1.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/features/1.jpg",
+      "PackagePath": "staticwebassets/files/img/features/1.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\features\\2.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\features\\2.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/features/2.jpg",
+      "PackagePath": "staticwebassets/files/img/features/2.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\features\\3.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\features\\3.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/features/3.jpg",
+      "PackagePath": "staticwebassets/files/img/features/3.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\gallery\\1.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\gallery\\1.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/gallery/1.jpg",
+      "PackagePath": "staticwebassets/files/img/gallery/1.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\gallery\\2.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\gallery\\2.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/gallery/2.jpg",
+      "PackagePath": "staticwebassets/files/img/gallery/2.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\gallery\\3.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\gallery\\3.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/gallery/3.jpg",
+      "PackagePath": "staticwebassets/files/img/gallery/3.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\gallery\\4.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\gallery\\4.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/gallery/4.jpg",
+      "PackagePath": "staticwebassets/files/img/gallery/4.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\gallery\\5.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\gallery\\5.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/gallery/5.jpg",
+      "PackagePath": "staticwebassets/files/img/gallery/5.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\gallery\\6.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\gallery\\6.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/gallery/6.jpg",
+      "PackagePath": "staticwebassets/files/img/gallery/6.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\icon\\1.png",
-      "PackagePath": "staticwebassets\\files\\img\\icon\\1.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/icon/1.png",
+      "PackagePath": "staticwebassets/files/img/icon/1.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\icon\\2.png",
-      "PackagePath": "staticwebassets\\files\\img\\icon\\2.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/icon/2.png",
+      "PackagePath": "staticwebassets/files/img/icon/2.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\icon\\3.png",
-      "PackagePath": "staticwebassets\\files\\img\\icon\\3.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/icon/3.png",
+      "PackagePath": "staticwebassets/files/img/icon/3.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\icon\\4.png",
-      "PackagePath": "staticwebassets\\files\\img\\icon\\4.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/icon/4.png",
+      "PackagePath": "staticwebassets/files/img/icon/4.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\icon\\5.png",
-      "PackagePath": "staticwebassets\\files\\img\\icon\\5.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/icon/5.png",
+      "PackagePath": "staticwebassets/files/img/icon/5.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\illustration\\2.png",
-      "PackagePath": "staticwebassets\\files\\img\\illustration\\2.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/illustration/2.png",
+      "PackagePath": "staticwebassets/files/img/illustration/2.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\illustration\\5.png",
-      "PackagePath": "staticwebassets\\files\\img\\illustration\\5.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/illustration/5.png",
+      "PackagePath": "staticwebassets/files/img/illustration/5.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\illustration\\7.png",
-      "PackagePath": "staticwebassets\\files\\img\\illustration\\7.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/illustration/7.png",
+      "PackagePath": "staticwebassets/files/img/illustration/7.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\illustration\\8.png",
-      "PackagePath": "staticwebassets\\files\\img\\illustration\\8.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/illustration/8.png",
+      "PackagePath": "staticwebassets/files/img/illustration/8.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\illustration\\9.png",
-      "PackagePath": "staticwebassets\\files\\img\\illustration\\9.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/illustration/9.png",
+      "PackagePath": "staticwebassets/files/img/illustration/9.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\logo-light-large.png",
-      "PackagePath": "staticwebassets\\files\\img\\logo-light-large.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/logo-light-large.png",
+      "PackagePath": "staticwebassets/files/img/logo-light-large.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\logo-light.png",
-      "PackagePath": "staticwebassets\\files\\img\\logo-light.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/logo-light.png",
+      "PackagePath": "staticwebassets/files/img/logo-light.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\logo.png",
-      "PackagePath": "staticwebassets\\files\\img\\logo.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/logo.png",
+      "PackagePath": "staticwebassets/files/img/logo.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\map.svg",
-      "PackagePath": "staticwebassets\\files\\img\\map.svg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/map.svg",
+      "PackagePath": "staticwebassets/files/img/map.svg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\portfolio\\1.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\portfolio\\1.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/portfolio/1.jpg",
+      "PackagePath": "staticwebassets/files/img/portfolio/1.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\portfolio\\2.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\portfolio\\2.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/portfolio/2.jpg",
+      "PackagePath": "staticwebassets/files/img/portfolio/2.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\portfolio\\3.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\portfolio\\3.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/portfolio/3.jpg",
+      "PackagePath": "staticwebassets/files/img/portfolio/3.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\portfolio\\4.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\portfolio\\4.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/portfolio/4.jpg",
+      "PackagePath": "staticwebassets/files/img/portfolio/4.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\preloader.gif",
-      "PackagePath": "staticwebassets\\files\\img\\preloader.gif"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/preloader.gif",
+      "PackagePath": "staticwebassets/files/img/preloader.gif"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\services\\1.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\services\\1.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/services/1.jpg",
+      "PackagePath": "staticwebassets/files/img/services/1.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\services\\2.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\services\\2.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/services/2.jpg",
+      "PackagePath": "staticwebassets/files/img/services/2.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\services\\3.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\services\\3.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/services/3.jpg",
+      "PackagePath": "staticwebassets/files/img/services/3.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\1.png",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\1.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/1.png",
+      "PackagePath": "staticwebassets/files/img/shape/1.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\1.svg",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\1.svg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/1.svg",
+      "PackagePath": "staticwebassets/files/img/shape/1.svg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\13.png",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\13.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/13.png",
+      "PackagePath": "staticwebassets/files/img/shape/13.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\15.png",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\15.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/15.png",
+      "PackagePath": "staticwebassets/files/img/shape/15.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\17.png",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\17.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/17.png",
+      "PackagePath": "staticwebassets/files/img/shape/17.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\2.png",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\2.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/2.png",
+      "PackagePath": "staticwebassets/files/img/shape/2.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\2.svg",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\2.svg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/2.svg",
+      "PackagePath": "staticwebassets/files/img/shape/2.svg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\3.png",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\3.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/3.png",
+      "PackagePath": "staticwebassets/files/img/shape/3.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\5.png",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\5.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/5.png",
+      "PackagePath": "staticwebassets/files/img/shape/5.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\7.png",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\7.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/7.png",
+      "PackagePath": "staticwebassets/files/img/shape/7.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\8.png",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\8.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/8.png",
+      "PackagePath": "staticwebassets/files/img/shape/8.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\9.png",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\9.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/9.png",
+      "PackagePath": "staticwebassets/files/img/shape/9.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\shape\\waves-shape.svg",
-      "PackagePath": "staticwebassets\\files\\img\\shape\\waves-shape.svg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/shape/waves-shape.svg",
+      "PackagePath": "staticwebassets/files/img/shape/waves-shape.svg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\signature.png",
-      "PackagePath": "staticwebassets\\files\\img\\signature.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/signature.png",
+      "PackagePath": "staticwebassets/files/img/signature.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\team\\1.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\team\\1.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/team/1.jpg",
+      "PackagePath": "staticwebassets/files/img/team/1.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\team\\2.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\team\\2.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/team/2.jpg",
+      "PackagePath": "staticwebassets/files/img/team/2.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\team\\3.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\team\\3.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/team/3.jpg",
+      "PackagePath": "staticwebassets/files/img/team/3.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\team\\4.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\team\\4.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/team/4.jpg",
+      "PackagePath": "staticwebassets/files/img/team/4.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\team\\5.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\team\\5.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/team/5.jpg",
+      "PackagePath": "staticwebassets/files/img/team/5.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\team\\6.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\team\\6.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/team/6.jpg",
+      "PackagePath": "staticwebassets/files/img/team/6.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\teams\\1.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\teams\\1.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/teams/1.jpg",
+      "PackagePath": "staticwebassets/files/img/teams/1.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\teams\\2.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\teams\\2.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/teams/2.jpg",
+      "PackagePath": "staticwebassets/files/img/teams/2.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\teams\\3.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\teams\\3.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/teams/3.jpg",
+      "PackagePath": "staticwebassets/files/img/teams/3.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\teams\\5.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\teams\\5.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/teams/5.jpg",
+      "PackagePath": "staticwebassets/files/img/teams/5.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\teams\\6.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\teams\\6.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/teams/6.jpg",
+      "PackagePath": "staticwebassets/files/img/teams/6.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\teams\\7.jpg",
-      "PackagePath": "staticwebassets\\files\\img\\teams\\7.jpg"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/teams/7.jpg",
+      "PackagePath": "staticwebassets/files/img/teams/7.jpg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\files\\img\\thumb\\3.png",
-      "PackagePath": "staticwebassets\\files\\img\\thumb\\3.png"
+      "Id": "/workspaces/b-tech/wwwroot/files/img/thumb/3.png",
+      "PackagePath": "staticwebassets/files/img/thumb/3.png"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\Flaticon.eot",
-      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/Flaticon.eot",
+      "PackagePath": "staticwebassets/fonts/Flaticon.eot"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\Flaticon.svg",
-      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/Flaticon.svg",
+      "PackagePath": "staticwebassets/fonts/Flaticon.svg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\Flaticon.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/Flaticon.ttf",
+      "PackagePath": "staticwebassets/fonts/Flaticon.ttf"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\Flaticon.woff",
-      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/Flaticon.woff",
+      "PackagePath": "staticwebassets/fonts/Flaticon.woff"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\Flaticond41d.eot",
-      "PackagePath": "staticwebassets\\fonts\\Flaticond41d.eot"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/Flaticond41d.eot",
+      "PackagePath": "staticwebassets/fonts/Flaticond41d.eot"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-brands-400.eot",
-      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/fonts/fa-brands-400.eot"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-brands-400.html",
-      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.html"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-brands-400.html",
+      "PackagePath": "staticwebassets/fonts/fa-brands-400.html"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-brands-400.ttf",
-      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/fonts/fa-brands-400.ttf"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-brands-400.woff",
-      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/fonts/fa-brands-400.woff"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-brands-400.woff2",
-      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/fonts/fa-brands-400.woff2"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-brands-400d41d.eot",
-      "PackagePath": "staticwebassets\\fonts\\fa-brands-400d41d.eot"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets/fonts/fa-brands-400d41d.eot"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-regular-400.eot",
-      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/fonts/fa-regular-400.eot"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-regular-400.html",
-      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.html"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-regular-400.html",
+      "PackagePath": "staticwebassets/fonts/fa-regular-400.html"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-regular-400.ttf",
-      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/fonts/fa-regular-400.ttf"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-regular-400.woff",
-      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/fonts/fa-regular-400.woff"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-regular-400.woff2",
-      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/fonts/fa-regular-400.woff2"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-regular-400d41d.eot",
-      "PackagePath": "staticwebassets\\fonts\\fa-regular-400d41d.eot"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets/fonts/fa-regular-400d41d.eot"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-solid-900.eot",
-      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/fonts/fa-solid-900.eot"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-solid-900.html",
-      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.html"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-solid-900.html",
+      "PackagePath": "staticwebassets/fonts/fa-solid-900.html"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-solid-900.ttf",
-      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/fonts/fa-solid-900.ttf"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-solid-900.woff",
-      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/fonts/fa-solid-900.woff"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-solid-900.woff2",
-      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/fonts/fa-solid-900.woff2"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\fa-solid-900d41d.eot",
-      "PackagePath": "staticwebassets\\fonts\\fa-solid-900d41d.eot"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets/fonts/fa-solid-900d41d.eot"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\themify9f24.eot",
-      "PackagePath": "staticwebassets\\fonts\\themify9f24.eot"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/themify9f24.eot",
+      "PackagePath": "staticwebassets/fonts/themify9f24.eot"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\themify9f24.svg",
-      "PackagePath": "staticwebassets\\fonts\\themify9f24.svg"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/themify9f24.svg",
+      "PackagePath": "staticwebassets/fonts/themify9f24.svg"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\themify9f24.ttf",
-      "PackagePath": "staticwebassets\\fonts\\themify9f24.ttf"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/themify9f24.ttf",
+      "PackagePath": "staticwebassets/fonts/themify9f24.ttf"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\themify9f24.woff",
-      "PackagePath": "staticwebassets\\fonts\\themify9f24.woff"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/themify9f24.woff",
+      "PackagePath": "staticwebassets/fonts/themify9f24.woff"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\fonts\\themifyd41d.eot",
-      "PackagePath": "staticwebassets\\fonts\\themifyd41d.eot"
+      "Id": "/workspaces/b-tech/wwwroot/fonts/themifyd41d.eot",
+      "PackagePath": "staticwebassets/fonts/themifyd41d.eot"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\YTPlayer.min.js",
-      "PackagePath": "staticwebassets\\js\\YTPlayer.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/YTPlayer.min.js",
+      "PackagePath": "staticwebassets/js/YTPlayer.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\bootsnav.js",
-      "PackagePath": "staticwebassets\\js\\bootsnav.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/bootsnav.js",
+      "PackagePath": "staticwebassets/js/bootsnav.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\count-to.js",
-      "PackagePath": "staticwebassets\\js\\count-to.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/count-to.js",
+      "PackagePath": "staticwebassets/js/count-to.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\equal-height.min.js",
-      "PackagePath": "staticwebassets\\js\\equal-height.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/equal-height.min.js",
+      "PackagePath": "staticwebassets/js/equal-height.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\imagesloaded.pkgd.min.js",
-      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets/js/imagesloaded.pkgd.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\isotope.pkgd.min.js",
-      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets/js/isotope.pkgd.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\jquery-1.12.4.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery-1.12.4.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets/js/jquery-1.12.4.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\jquery.appear.js",
-      "PackagePath": "staticwebassets\\js\\jquery.appear.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/jquery.appear.js",
+      "PackagePath": "staticwebassets/js/jquery.appear.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\jquery.easing.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/jquery.easing.min.js",
+      "PackagePath": "staticwebassets/js/jquery.easing.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\jquery.magnific-popup.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/js/jquery.magnific-popup.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\jquery.nice-select.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets/js/jquery.nice-select.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\main.js",
-      "PackagePath": "staticwebassets\\js\\main.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\modernizr.custom.13711.js",
-      "PackagePath": "staticwebassets\\js\\modernizr.custom.13711.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/modernizr.custom.13711.js",
+      "PackagePath": "staticwebassets/js/modernizr.custom.13711.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\owl.carousel.min.js",
-      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/js/owl.carousel.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\popper.min.js",
-      "PackagePath": "staticwebassets\\js\\popper.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/popper.min.js",
+      "PackagePath": "staticwebassets/js/popper.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\progress-bar.min.js",
-      "PackagePath": "staticwebassets\\js\\progress-bar.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/progress-bar.min.js",
+      "PackagePath": "staticwebassets/js/progress-bar.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\typed.html",
-      "PackagePath": "staticwebassets\\js\\typed.html"
+      "Id": "/workspaces/b-tech/wwwroot/js/typed.html",
+      "PackagePath": "staticwebassets/js/typed.html"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\js\\wow.min.js",
-      "PackagePath": "staticwebassets\\js\\wow.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/js/wow.min.js",
+      "PackagePath": "staticwebassets/js/wow.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "/workspaces/b-tech/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "/workspaces/b-tech/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+      "Id": "/workspaces/b-tech/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+      "Id": "/workspaces/b-tech/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "E:\\Bluetooth\\b-tech\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "/workspaces/b-tech/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.b-tech.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.b-tech.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.b-tech.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.b-tech.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.b-tech.props",
       "PackagePath": "build\\b-tech.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.b-tech.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.b-tech.props",
       "PackagePath": "buildMultiTargeting\\b-tech.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.b-tech.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.b-tech.props",
       "PackagePath": "buildTransitive\\b-tech.props"
     }
   ],
